@@ -47,6 +47,12 @@
       "source": "./plugins/marketing-skills",
       "description": "52 skills de marketing: CRO, copywriting, SEO, anuncios, email, prospección, pricing, plan de marketing y más.",
       "category": "marketing"
+    },
+    {
+      "name": "task-observer",
+      "source": "./plugins/task-observer",
+      "description": "Meta-skill que observa tus sesiones y propone mejoras a tus skills o skills nuevas, con revisión humana.",
+      "category": "productivity"
     }
   ]
 }

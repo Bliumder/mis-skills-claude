@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "task-observer",
+  "displayName": "Task Observer — One Skill to Rule Them All",
+  "description": "Observa tus sesiones de trabajo y convierte correcciones, fricciones y decisiones repetidas en propuestas de mejora de skills y en nuevas skills, siempre con tu revisión.",
+  "version": "3.8.0",
+  "author": {
+    "name": "Eoghan Henn",
+    "url": "https://rebelytics.com"
+  },
+  "homepage": "https://github.com/rebelytics/one-skill-to-rule-them-all",
+  "repository": "https://github.com/rebelytics/one-skill-to-rule-them-all",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "agent-skills",
+    "skill-improvement",
+    "meta-skill",
+    "skill-authoring",
+    "session-observation",
+    "human-in-the-loop",
+    "feedback-loop"
+  ]
+}
