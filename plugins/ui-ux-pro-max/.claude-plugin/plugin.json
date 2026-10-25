@@ -1,0 +1,9 @@
+{
+  "name": "ui-ux-pro-max",
+  "version": "2.15.0",
+  "description": "Inteligencia de diseño UI/UX: base de datos local con 79 estilos, 192 paletas, 74 combinaciones tipográficas, 25 tipos de gráfico y guías para 22 stacks. Incluye skills de marca, logos, banners, slides, design system y estilos.",
+  "author": { "name": "nextlevelbuilder" },
+  "homepage": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+  "repository": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+  "license": "MIT"
+}

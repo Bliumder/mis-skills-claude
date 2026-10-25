@@ -23,6 +23,12 @@
       "source": "./plugins/taste-skill",
       "description": "Dirección de arte anti-'AI slop' para webs, dashboards y apps, revisada en un navegador real.",
       "category": "design"
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "source": "./plugins/ui-ux-pro-max",
+      "description": "Base de datos de diseño UI/UX (estilos, paletas, tipografías, gráficos, 22 stacks) + skills de marca, logo, banner, slides y design system.",
+      "category": "design"
     }
   ]
 }
