@@ -11,6 +11,12 @@
       "source": "./plugins/emil-skills",
       "description": "15 skills de Emil Kowalski para diseño de UI y animación (web, Expo y Swift).",
       "category": "design"
+    },
+    {
+      "name": "scroll-world",
+      "source": "./plugins/scroll-world",
+      "description": "Landing pages inmersivas donde el scroll mueve una cámara a través de escenas 3D generadas con IA (Higgsfield/Monid).",
+      "category": "design"
     }
   ]
 }
