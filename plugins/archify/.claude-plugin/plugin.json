@@ -1,0 +1,9 @@
+{
+  "name": "archify",
+  "version": "3.2.0",
+  "description": "Diagramas de arquitectura, workflows, secuencia, flujo de datos, estados, ERD, clases, árboles, timelines y waterfalls como HTML interactivo con tema claro/oscuro, animación y exportación a imagen/SVG/WebM. Acepta requisitos o Mermaid.",
+  "author": { "name": "tt-a1i" },
+  "homepage": "https://github.com/tt-a1i/archify",
+  "repository": "https://github.com/tt-a1i/archify",
+  "license": "Apache-2.0 OR MIT"
+}

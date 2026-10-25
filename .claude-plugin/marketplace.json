@@ -53,6 +53,12 @@
       "source": "./plugins/task-observer",
       "description": "Meta-skill que observa tus sesiones y propone mejoras a tus skills o skills nuevas, con revisión humana.",
       "category": "productivity"
+    },
+    {
+      "name": "archify",
+      "source": "./plugins/archify",
+      "description": "Diagramas técnicos (arquitectura, secuencia, ERD, workflows, timelines…) como HTML interactivo y exportable.",
+      "category": "development"
     }
   ]
 }

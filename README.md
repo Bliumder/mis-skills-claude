@@ -22,6 +22,7 @@ Instalar cada plugin:
 /plugin install impeccable@mis-skills-claude
 /plugin install marketing-skills@mis-skills-claude
 /plugin install task-observer@mis-skills-claude
+/plugin install archify@mis-skills-claude
 ```
 
 | Plugin | Origen | Descripción |
@@ -34,6 +35,7 @@ Instalar cada plugin:
 | `impeccable` | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | `/impeccable` con 24 subcomandos y 4 agentes. ⚠️ Descarga su motor desde GitHub al primer uso, ejecuta hooks automáticos en cada sesión/edición y envía telemetría anónima (desactivar con `DO_NOT_TRACK=1`). |
 | `marketing-skills` | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 52 skills de marketing (CRO, copywriting, SEO, ads, cold email, pricing, launch…) + CLIs para 66 herramientas (requieren la API key de cada servicio). |
 | `task-observer` | [rebelytics/one-skill-to-rule-them-all](https://github.com/rebelytics/one-skill-to-rule-them-all) | Meta-skill que registra correcciones y patrones en `skill-observations/` de tu proyecto y propone mejoras de skills en una revisión semanal. Licencia CC BY 4.0. |
+| `archify` | [tt-a1i/archify](https://github.com/tt-a1i/archify) | Diagramas de arquitectura, secuencia, ERD, workflows, timelines y más como HTML interactivo, con exportación a imagen/SVG/WebM. Requiere Node 18+. |
 
 ## Plugins externos (se instalan desde el marketplace de su autor)
 
