@@ -1,0 +1,9 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mis-skills-claude",
+  "description": "Colección personal de skills de Claude Code, empaquetadas como plugins.",
+  "owner": {
+    "name": "Bliumder"
+  },
+  "plugins": []
+}
