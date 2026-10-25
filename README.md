@@ -32,3 +32,11 @@ Instalar cada plugin:
 | `react-native-skills` | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-native-skills) | Skill `vercel-react-native-skills`: 37 reglas de rendimiento y buenas prácticas para React Native y Expo. |
 | `impeccable` | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | `/impeccable` con 24 subcomandos y 4 agentes. ⚠️ Descarga su motor desde GitHub al primer uso, ejecuta hooks automáticos en cada sesión/edición y envía telemetría anónima (desactivar con `DO_NOT_TRACK=1`). |
 | `marketing-skills` | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 52 skills de marketing (CRO, copywriting, SEO, ads, cold email, pricing, launch…) + CLIs para 66 herramientas (requieren la API key de cada servicio). |
+
+## Plugins externos (se instalan desde el marketplace de su autor)
+
+Estos no están copiados aquí porque dependen de su propio marketplace o se actualizan muy a menudo.
+
+| Plugin | Instalación | Notas |
+|---|---|---|
+| `claude-mem` | `/plugin marketplace add thedotmack/claude-mem`<br>`/plugin install claude-mem@thedotmack` | Memoria persistente entre sesiones. Requiere `npx claude-mem install`. ⚠️ Hooks en cada prompt y herramienta, servicio en segundo plano, consume tokens para resumir, telemetría PostHog (desactivar con `DO_NOT_TRACK=1`). |
