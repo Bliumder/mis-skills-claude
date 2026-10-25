@@ -41,6 +41,12 @@
       "source": "./plugins/impeccable",
       "description": "Fluidez de diseño frontend: /impeccable con 24 subcomandos (audit, polish, critique, animate…), detección de anti-patrones y hooks de revisión automática.",
       "category": "design"
+    },
+    {
+      "name": "marketing-skills",
+      "source": "./plugins/marketing-skills",
+      "description": "52 skills de marketing: CRO, copywriting, SEO, anuncios, email, prospección, pricing, plan de marketing y más.",
+      "category": "marketing"
     }
   ]
 }

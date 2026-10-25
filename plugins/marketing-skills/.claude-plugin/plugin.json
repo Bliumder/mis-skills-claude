@@ -1,0 +1,9 @@
+{
+  "name": "marketing-skills",
+  "version": "2.13.0",
+  "description": "52 skills de marketing de Corey Haines: CRO, copywriting, SEO y AI SEO, anuncios, email frío, prospección, pricing, referidos, plan de marketing AARRR y más, con CLIs para 66 herramientas.",
+  "author": { "name": "Corey Haines" },
+  "homepage": "https://github.com/coreyhaines31/marketingskills",
+  "repository": "https://github.com/coreyhaines31/marketingskills",
+  "license": "MIT"
+}
