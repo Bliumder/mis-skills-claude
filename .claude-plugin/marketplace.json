@@ -17,6 +17,12 @@
       "source": "./plugins/scroll-world",
       "description": "Landing pages inmersivas donde el scroll mueve una cámara a través de escenas 3D generadas con IA (Higgsfield/Monid).",
       "category": "design"
+    },
+    {
+      "name": "taste-skill",
+      "source": "./plugins/taste-skill",
+      "description": "Dirección de arte anti-'AI slop' para webs, dashboards y apps, revisada en un navegador real.",
+      "category": "design"
     }
   ]
 }
