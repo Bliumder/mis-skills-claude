@@ -19,6 +19,7 @@ Instalar cada plugin:
 /plugin install taste-skill@mis-skills-claude
 /plugin install ui-ux-pro-max@mis-skills-claude
 /plugin install react-native-skills@mis-skills-claude
+/plugin install impeccable@mis-skills-claude
 ```
 
 | Plugin | Origen | Descripción |
@@ -28,3 +29,4 @@ Instalar cada plugin:
 | `taste-skill` | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Skill `design-taste-frontend`: dirección de arte para webs, dashboards y apps, con inspector en navegador real. Requiere Node y Chrome/Chromium. |
 | `ui-ux-pro-max` | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 7 skills: ui-ux-pro-max, design, design-system, brand, banner-design, slides, ui-styling. Requiere Python 3. Generar logos/iconos con IA necesita `GEMINI_API_KEY` (opcional). |
 | `react-native-skills` | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-native-skills) | Skill `vercel-react-native-skills`: 37 reglas de rendimiento y buenas prácticas para React Native y Expo. |
+| `impeccable` | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | `/impeccable` con 24 subcomandos y 4 agentes. ⚠️ Descarga su motor desde GitHub al primer uso, ejecuta hooks automáticos en cada sesión/edición y envía telemetría anónima (desactivar con `DO_NOT_TRACK=1`). |
