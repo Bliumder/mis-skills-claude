@@ -5,5 +5,12 @@
   "owner": {
     "name": "Bliumder"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "emil-skills",
+      "source": "./plugins/emil-skills",
+      "description": "15 skills de Emil Kowalski para diseño de UI y animación (web, Expo y Swift).",
+      "category": "design"
+    }
+  ]
 }
