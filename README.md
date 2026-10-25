@@ -2,6 +2,8 @@
 
 Marketplace personal de plugins para Claude Code.
 
+**Guía completa de instalación y uso: [GUIA.md](GUIA.md)**
+
 ## Instalación
 
 ```

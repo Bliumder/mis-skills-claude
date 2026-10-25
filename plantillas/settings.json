@@ -1,0 +1,25 @@
+{
+  "extraKnownMarketplaces": {
+    "mis-skills-claude": {
+      "source": { "source": "github", "repo": "Bliumder/mis-skills-claude" }
+    },
+    "thedotmack": {
+      "source": { "source": "github", "repo": "thedotmack/claude-mem" }
+    }
+  },
+  "enabledPlugins": {
+    "emil-skills@mis-skills-claude": true,
+    "scroll-world@mis-skills-claude": true,
+    "taste-skill@mis-skills-claude": true,
+    "ui-ux-pro-max@mis-skills-claude": true,
+    "react-native-skills@mis-skills-claude": true,
+    "impeccable@mis-skills-claude": true,
+    "marketing-skills@mis-skills-claude": true,
+    "task-observer@mis-skills-claude": true,
+    "archify@mis-skills-claude": true,
+    "claude-mem@thedotmack": true
+  },
+  "env": {
+    "DO_NOT_TRACK": "1"
+  }
+}
