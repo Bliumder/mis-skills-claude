@@ -1,0 +1,9 @@
+{
+  "name": "react-native-skills",
+  "version": "1.0.0",
+  "description": "Buenas prácticas de React Native y Expo de Vercel: rendimiento de listas, animaciones, navegación, estado, imágenes y UI nativa.",
+  "author": { "name": "Vercel" },
+  "homepage": "https://github.com/vercel-labs/agent-skills/tree/main/skills/react-native-skills",
+  "repository": "https://github.com/vercel-labs/agent-skills",
+  "license": "MIT"
+}

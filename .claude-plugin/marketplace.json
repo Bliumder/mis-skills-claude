@@ -29,6 +29,12 @@
       "source": "./plugins/ui-ux-pro-max",
       "description": "Base de datos de diseño UI/UX (estilos, paletas, tipografías, gráficos, 22 stacks) + skills de marca, logo, banner, slides y design system.",
       "category": "design"
+    },
+    {
+      "name": "react-native-skills",
+      "source": "./plugins/react-native-skills",
+      "description": "Buenas prácticas de React Native y Expo (Vercel): listas, animaciones, navegación, estado y UI nativa.",
+      "category": "development"
     }
   ]
 }
